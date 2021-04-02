@@ -1,10 +1,12 @@
 import './App.css';
 
+import Header from './containers/Header';
+
 function App() {
   return (
-    <div>
-      Night Cafe
-    </div>
+    <>
+      <Header />
+    </>
   );
 }
 
