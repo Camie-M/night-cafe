@@ -6,7 +6,7 @@ import DescriptionTable from './containers/DescriptionTable';
 import FirstImageGallery from './containers/FirstImageGallery';
 import SecondImageGallery from './containers/SecondImageGallery';
 import Navigation from './containers/Navigation';
-/* import Footer from './containers/Footer'; */
+import Footer from './containers/Footer';
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
       <FirstImageGallery />
       <SecondImageGallery />
       <Navigation />
-      {/* <Footer /> */}
+      <Footer />
     </>
   );
 }
