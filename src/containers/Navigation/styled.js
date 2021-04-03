@@ -6,4 +6,9 @@ export const NavigationWrapper = styled.section`
   margin: 10rem auto;
   align-items: center;
   justify-content: space-between;
+
+  @media(max-width: 900px) {
+    margin: 5rem auto;
+    width: 70%;
+  }
 `;
