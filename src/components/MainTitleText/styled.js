@@ -12,4 +12,16 @@ export const MainTitleStyle = styled.p`
   text-align: center;
   text-transform: uppercase;
   z-index: 3;
+
+  @media(max-width: 900px) {
+    font-size: 3.5rem;
+    margin: 0 auto;
+  }
+
+  @media(max-width: 650px) {
+    font-size: 2.175rem;
+    line-height: 3.5rem;
+    height: 80vh;
+    width: 80%;
+  }
 `;
