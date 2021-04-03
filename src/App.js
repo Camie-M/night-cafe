@@ -3,6 +3,7 @@ import './App.css';
 import Header from './containers/Header';
 import MainTitle from './containers/MainTitle';
 import DescriptionTable from './containers/DescriptionTable';
+import FirstImageGallery from './containers/FirstImageGallery';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <MainTitle />
       <DescriptionTable />
+      <FirstImageGallery />
     </>
   );
 }
