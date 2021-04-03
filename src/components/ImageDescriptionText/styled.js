@@ -13,6 +13,5 @@ export const ImageText = styled.p`
 
   @media(max-width: 650px) {
     font-size: 0.875rem;
-    color: white;
   }
 `;
