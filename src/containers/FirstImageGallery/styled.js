@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 export const FirstImageGalleryWrapper = styled.section`
-  margin: 0 auto;
+  margin: 0 auto 28rem auto;
   width: 50%;
   position: relative;
 
