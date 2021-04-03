@@ -16,7 +16,6 @@ const FirstImageGallery = () => {
       <img className="third" src={Image4} alt="Fundo vermelho com nuvens roxas" />
       <ImageDescriptionText
         text="The interior depicted is the Café de la Gare, 30 Place Lamartine, run by Joseph Ginoux and his wife Marie, who in November 1888 posed for Van Gogh's and Gauguin's Arlésienne; a bit later, Joseph Ginoux evidently posed for both artists."
-        width="20rem"
       />
     </S.FirstImageGalleryWrapper>
   )
