@@ -24,7 +24,6 @@ export const FirstImageGalleryWrapper = styled.section`
 
   @media(max-width: 900px) {
     margin: 0 auto 36rem auto;
-    color: white;
 
     .third {
       right: -6rem;
@@ -36,6 +35,7 @@ export const FirstImageGalleryWrapper = styled.section`
     display: flex;
     flex-direction: column;
     width: 100%;
+    color: white;
 
     .second {
       width: 40%;

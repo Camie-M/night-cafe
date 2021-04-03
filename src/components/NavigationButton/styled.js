@@ -22,4 +22,11 @@ export const NavigationButton = styled.button`
     cursor: pointer;
     background: url(${BgImage});
   }
+
+  @media(max-width: 650px) {
+    height: 8rem;
+    width: 8rem;
+    font-size: 0.75rem;
+    line-height: 1rem;
+  }
 `;

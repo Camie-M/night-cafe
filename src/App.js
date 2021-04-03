@@ -5,8 +5,8 @@ import MainTitle from './containers/MainTitle';
 import DescriptionTable from './containers/DescriptionTable';
 import FirstImageGallery from './containers/FirstImageGallery';
 import SecondImageGallery from './containers/SecondImageGallery';
-/* import Navigation from './containers/Navigation';
-import Footer from './containers/Footer'; */
+import Navigation from './containers/Navigation';
+/* import Footer from './containers/Footer'; */
 
 function App() {
   return (
@@ -16,8 +16,8 @@ function App() {
       <DescriptionTable />
       <FirstImageGallery />
       <SecondImageGallery />
-      {/* <Navigation />
-      <Footer /> */}
+      <Navigation />
+      {/* <Footer /> */}
     </>
   );
 }
