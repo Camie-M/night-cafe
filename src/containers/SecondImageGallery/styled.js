@@ -15,4 +15,17 @@ export const SecondImageGalleryWrapper = styled.section`
     width: 86%;
     transform: translateX(12.125rem);
   }
+
+  @media(max-width: 650px) {
+    display: flex;
+    flex-direction: column-reverse;
+    width: 80%;
+
+    p {
+      text-align: center;
+      margin: 0 auto;
+      width: 70%;
+      transform: translateX(0);
+    }
+  }
 `;
