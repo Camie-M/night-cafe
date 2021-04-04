@@ -14,8 +14,8 @@ const ScrollToTop = () => {
 
   const checkScrollTop = () => {
     if ((!scroll && window.pageYOffset > 400) && !(width < mobileBreakpoint)){
-      setScroll(true) 
-    } else if ((scroll && window.pageYOffset <= 400) && (width < mobileBreakpoint)){
+      setScroll(true)
+    } else if (scroll && window.pageYOffset <= 400){
       setScroll(false)
     }
 
@@ -24,6 +24,8 @@ const ScrollToTop = () => {
       window.onscroll = function(ev) {
         if ((window.innerHeight + window.pageYOffset) >= document.body.offsetHeight) {
           setScroll(true);
+        } else {
+          setScroll(false);
         }
       };
     }

@@ -13,6 +13,19 @@ export const MainTitleStyle = styled.p`
   text-transform: uppercase;
   z-index: 3;
 
+  animation: show 3s;
+
+  @keyframes show {
+    0% {
+      opacity: 0.1;
+      transform: translateX(15%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
   @media(max-width: 900px) {
     font-size: 3.5rem;
     margin: 0 auto;
