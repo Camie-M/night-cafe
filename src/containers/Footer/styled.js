@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const Footer = styled.footer`
   padding: 5rem 6.25rem;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 
   p {
     text-transform: uppercase;
