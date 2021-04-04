@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/night-cafe/static/css/main.560c60c3.chunk.css",
+    "main.js": "/night-cafe/static/js/main.59cbebd7.chunk.js",
+    "main.js.map": "/night-cafe/static/js/main.59cbebd7.chunk.js.map",
+    "runtime-main.js": "/night-cafe/static/js/runtime-main.ba1b5ed1.js",
+    "runtime-main.js.map": "/night-cafe/static/js/runtime-main.ba1b5ed1.js.map",
+    "static/js/2.4f0a45b4.chunk.js": "/night-cafe/static/js/2.4f0a45b4.chunk.js",
+    "static/js/2.4f0a45b4.chunk.js.map": "/night-cafe/static/js/2.4f0a45b4.chunk.js.map",
+    "static/js/3.f4616439.chunk.js": "/night-cafe/static/js/3.f4616439.chunk.js",
+    "static/js/3.f4616439.chunk.js.map": "/night-cafe/static/js/3.f4616439.chunk.js.map",
+    "index.html": "/night-cafe/index.html",
+    "static/css/main.560c60c3.chunk.css.map": "/night-cafe/static/css/main.560c60c3.chunk.css.map",
+    "static/js/2.4f0a45b4.chunk.js.LICENSE.txt": "/night-cafe/static/js/2.4f0a45b4.chunk.js.LICENSE.txt",
+    "static/media/arrow-black-left.68130a76.svg": "/night-cafe/static/media/arrow-black-left.68130a76.svg",
+    "static/media/arrow-external.2eddfb6c.svg": "/night-cafe/static/media/arrow-external.2eddfb6c.svg",
+    "static/media/arrow-up.0c697bf4.svg": "/night-cafe/static/media/arrow-up.0c697bf4.svg",
+    "static/media/arrow-white-left.2b9bb3a2.svg": "/night-cafe/static/media/arrow-white-left.2b9bb3a2.svg",
+    "static/media/arrow-white-right.af8d2c4e.svg": "/night-cafe/static/media/arrow-white-right.af8d2c4e.svg",
+    "static/media/dark-light.3f4133cd.svg": "/night-cafe/static/media/dark-light.3f4133cd.svg",
+    "static/media/image1.51570148.png": "/night-cafe/static/media/image1.51570148.png",
+    "static/media/image2.6f3fe298.png": "/night-cafe/static/media/image2.6f3fe298.png",
+    "static/media/image3.4fd3b0f4.png": "/night-cafe/static/media/image3.4fd3b0f4.png",
+    "static/media/image4.133867ce.png": "/night-cafe/static/media/image4.133867ce.png",
+    "static/media/image5.2135ddf2.png": "/night-cafe/static/media/image5.2135ddf2.png",
+    "static/media/image6.11a2b842.png": "/night-cafe/static/media/image6.11a2b842.png",
+    "static/media/menu.94293ffe.svg": "/night-cafe/static/media/menu.94293ffe.svg",
+    "static/media/night-cafe-button.3dc24991.png": "/night-cafe/static/media/night-cafe-button.3dc24991.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba1b5ed1.js",
+    "static/js/2.4f0a45b4.chunk.js",
+    "static/css/main.560c60c3.chunk.css",
+    "static/js/main.59cbebd7.chunk.js"
+  ]
+}
