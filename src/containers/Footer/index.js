@@ -3,7 +3,6 @@ import React from 'react'
 import Link from '../../components/Link';
 
 import ArrowExternal from '../../assets/icons/arrow-external.svg'
-import ArrowUp from '../../assets/icons/arrow-up.svg'
 
 import * as S from './styled'
 
@@ -46,7 +45,6 @@ const Footer = () => {
             <img src={ArrowExternal} alt="Seta de links externos" />
           </S.SocialLinks>
         ))}
-        <img src={ArrowUp} alt="Seta para voltar ao início da página" />
       </S.FooterLinksWrapper>
     </S.Footer>
   )
