@@ -4,7 +4,7 @@
 
 ## :bulb: Deploy
 
-- To be added
+- [Link](https://camie-m.github.io/night-cafe/)
 
 ## :bookmark: About
 
@@ -35,9 +35,20 @@
 
 ```sh
   # Installing project dependencies.
-  $ npm install # or yarn
+  $ npm install # or yarn install
   # Startin application
   $ npm start # or yarn start
+```
+
+## :microscope: Test Coverage
+
+Currenty, Night Cafe has a test Coverage of 60%. To check them out, you can ran one of the two following commands on your terminal:
+
+```sh
+  # To run the tests:
+  $ npm run test # or yarn test
+  # To check coverage
+  $ npm run test -- --coverage --watchAll=false # or yarn start --coverage --watchAll=false
 ```
 
 ## :email: Contact
